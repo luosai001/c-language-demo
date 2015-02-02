@@ -1,0 +1,7 @@
+#以下是忽略
+#忽略以demo目录下.a .o结尾的件
+demo/*.[ao]
+demo/*.layout
+demo/*.exe
+demo/*.cpp
+demo/*.dev
