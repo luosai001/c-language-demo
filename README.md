@@ -10,4 +10,11 @@ main7:在屏幕上输入字符
 main8:标准输入输出
 mian9：
 mian9：
+mian9：
+mian9：
+mian9：
+mian9：
+mian9：
+mian9：
+mian9：
 
